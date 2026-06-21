@@ -919,8 +919,8 @@ class pipe(Type):
     PROPERTIES = {
         "PathPoints": {
             "type": "float float,...",
-            "default": "0 0, 0 0, 0 0",
-        },
+            "default": "0 0, 0 0, 0 0"
+        }
     }
 
 
